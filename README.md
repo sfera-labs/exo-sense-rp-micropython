@@ -23,3 +23,5 @@ Follow these steps to run the MicroPython examples using the Thonny IDE from you
 - From the Files view right-click on the "lib" folder, select "Upload to /" and wait for the upload to finish
 - Double-click on one of the example files to open it in the main editor
 - Press on the "Play" (&#9658;) button in the top bar of Thonny to run the example on your Exo Sense RP
+
+![exo-sense-rp-micropython-thonny](https://user-images.githubusercontent.com/6586434/166239355-fc8fc089-4e12-414e-8f2e-74b72be18c8f.png)
